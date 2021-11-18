@@ -1,0 +1,6 @@
+﻿  mainList.cpp
+D:\Study\ХПИ\Алгоритмы\labs\Solution1\mainList\mainList.cpp(184,12): warning C4101: ptrTemp: неиспользованная локальная переменная
+D:\Study\ХПИ\Алгоритмы\labs\Solution1\mainList\mainList.cpp(182,6): warning C4101: number: неиспользованная локальная переменная
+D:\Study\ХПИ\Алгоритмы\labs\Solution1\mainList\mainList.cpp(181,6): warning C4101: key: неиспользованная локальная переменная
+D:\Study\ХПИ\Алгоритмы\labs\Solution1\mainList\mainList.cpp(220,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  mainList.vcxproj -> D:\Study\ХПИ\Алгоритмы\labs\Solution1\Debug\mainList.exe

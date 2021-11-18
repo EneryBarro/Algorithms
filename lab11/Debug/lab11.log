@@ -1,0 +1,5 @@
+﻿  lab11.cpp
+D:\Study\ХПИ\Алгоритмы\labs\Solution1\lab11\lab11.cpp(14,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\Study\ХПИ\Алгоритмы\labs\Solution1\lab11\lab11.cpp(53,13): warning C4101: k: неиспользованная локальная переменная
+D:\Study\ХПИ\Алгоритмы\labs\Solution1\lab11\lab11.cpp(73,16): warning C4101: k: неиспользованная локальная переменная
+  lab11.vcxproj -> D:\Study\ХПИ\Алгоритмы\labs\Solution1\Debug\lab11.exe

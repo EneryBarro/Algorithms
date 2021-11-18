@@ -1,0 +1,4 @@
+﻿  lab08.cpp
+D:\Study\ХПИ\Алгоритмы\labs\Solution1\lab08\lab08.cpp(187,10): warning C4102: start: неиспользованная метка
+D:\Study\ХПИ\Алгоритмы\labs\Solution1\lab08\lab08.cpp(107,27): warning C4101: s1: неиспользованная локальная переменная
+  lab08.vcxproj -> D:\Study\ХПИ\Алгоритмы\labs\Solution1\Debug\lab08.exe
